@@ -1,6 +1,5 @@
 new_list = list(input('Введите необходимое количество переменных: '))
-#print(new_list)
-#print(len(new_list))
+
 n = 0
 
 if len(new_list) % 2 != 0:
